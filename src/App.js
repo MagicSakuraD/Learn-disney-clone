@@ -10,7 +10,7 @@ function App() {
           <Route path="/" element={<Login />} />
         </Routes>
       </Router>
-      <h1>hello switch</h1>
+      <h1></h1>
     </div>
   );
 }
