@@ -10,7 +10,7 @@ const Header = (props) => {
         {" "}
         <a href="/home">
           <img src="/images/home-icon.svg" alt="HOME" />
-          <span>HOME</span>
+          <span>HOME keep</span>
         </a>
       </NavMenu>
     </Nav>
